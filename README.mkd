@@ -127,7 +127,7 @@ thumbor-doctor --nocolor -c thumbor.conf
 
 ## 🎯 Features
 
-- supports all common images formats out of the box
+- supports all common image formats out of the box
 - [intelligent cropping and resizing](http://thumbor.readthedocs.io/en/latest/detection_algorithms.html)
 - blazing fast using caching
 - supports many storages (local storage, AWS S3, Rackspace, Ceph, ...)
@@ -143,7 +143,7 @@ All of it with a clear indication of each project's quality. Have fun!
 
 ## 👍 Contribute
 
-thumbor is an open-source project with many contributors. Join them
+thumbor is an open-source project with many contributors. Join them by
 [contributing code](https://github.com/thumbor/thumbor/blob/master/CONTRIBUTING.md) or
 [contributing documentation](https://github.com/thumbor/thumbor/blob/master/CONTRIBUTING.md).
 
